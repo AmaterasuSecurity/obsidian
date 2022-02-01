@@ -1,0 +1,1 @@
+moves you from global to config mode.

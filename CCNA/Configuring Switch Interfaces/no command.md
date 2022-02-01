@@ -1,0 +1,1 @@
+removes configuration on switch
