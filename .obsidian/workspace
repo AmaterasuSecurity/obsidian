@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/あんぜん　（安全）.md",
+            "file": "Japanese/にぎやか　（和やか）.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/あんぜん　（安全）.md",
+                "file": "Japanese/にぎやか　（和やか）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,9 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
+    "Japanese/にぎやか　（和やか）.md",
+    "Japanese/ふくざつ　（複雑）.md",
+    "Japanese/しんぱい　（心配）.md",
     "Japanese/あんぜん　（安全）.md",
     "Japanese/べんり（便利）.md",
     "Japanese/こうえん　（公園）.md"
