@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/にぎやか　（和やか）.md",
+            "file": "Japanese/にちようび　（日曜日）.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/にぎやか　（和やか）.md",
+                "file": "Japanese/にちようび　（日曜日）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
+    "Japanese/にちようび　（日曜日）.md",
     "Japanese/にぎやか　（和やか）.md",
     "Japanese/ふくざつ　（複雑）.md",
     "Japanese/しんぱい　（心配）.md",
