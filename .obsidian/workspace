@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Directory looping.md",
+            "file": "Linux/CLI arguments.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Directory looping.md",
+                "file": "Linux/CLI arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
+    "Linux/CLI arguments.md",
     "Linux/Directory looping.md",
     "Linux/Outputs.md",
     "Japanese/にちようび　（日曜日）.md",
