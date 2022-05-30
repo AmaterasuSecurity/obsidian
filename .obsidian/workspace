@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Japanese/にちようび　（日曜日）.md",
+            "file": "Linux/Directory looping.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/にちようび　（日曜日）.md",
+                "file": "Linux/Directory looping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
+    "Linux/Directory looping.md",
+    "Linux/Outputs.md",
     "Japanese/にちようび　（日曜日）.md",
     "Japanese/にぎやか　（和やか）.md",
     "Japanese/ふくざつ　（複雑）.md",
