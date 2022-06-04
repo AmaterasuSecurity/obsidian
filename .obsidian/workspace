@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/CLI arguments.md",
+            "file": "Methodology/Steps.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/CLI arguments.md",
+                "file": "Methodology/Steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
+    "Methodology/Steps.md",
     "Linux/CLI arguments.md",
     "Linux/Directory looping.md",
     "Linux/Outputs.md",
@@ -97,7 +98,6 @@
     "Japanese/ふくざつ　（複雑）.md",
     "Japanese/しんぱい　（心配）.md",
     "Japanese/あんぜん　（安全）.md",
-    "Japanese/べんり（便利）.md",
-    "Japanese/こうえん　（公園）.md"
+    "Japanese/べんり（便利）.md"
   ]
 }

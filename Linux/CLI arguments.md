@@ -1,5 +1,5 @@
 Loop constructs:
-```
+```bash
 i=1;
 for user in "$@"
 do

