@@ -7,9 +7,11 @@
         "id": "d980e136d9cd3e89",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Python/Python-Cheat-Sheet.pdf"
+            "file": "Powershell/Untitled.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python-Cheat-Sheet.pdf",
+                "file": "Powershell/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +89,7 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
+    "Powershell/Untitled.md",
     "Python/Python-Cheat-Sheet.pdf",
     "Attachments/Pasted image 20220130132141.png",
     "Attachments/Pasted image 20220130141434.png",
@@ -95,7 +98,6 @@
     "Attachments/Pasted image 20220130132246.png",
     "Linux/Directory looping.md",
     "Linux/Outputs.md",
-    "Linux/CLI arguments.md",
-    "Methodology/Steps.md"
+    "Linux/CLI arguments.md"
   ]
 }
