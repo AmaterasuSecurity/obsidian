@@ -7,11 +7,9 @@
         "id": "d980e136d9cd3e89",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Methodology/Steps.md",
-            "mode": "source",
-            "source": false
+            "file": "Python/Python-Cheat-Sheet.pdf"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology/Steps.md",
+                "file": "Python/Python-Cheat-Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
-    "Methodology/Steps.md",
-    "Linux/CLI arguments.md",
+    "Python/Python-Cheat-Sheet.pdf",
+    "Attachments/Pasted image 20220130132141.png",
+    "Attachments/Pasted image 20220130141434.png",
+    "Attachments/Pasted image 20220130142511.png",
+    "Attachments/Pasted image 20220130143657.png",
+    "Attachments/Pasted image 20220130132246.png",
     "Linux/Directory looping.md",
     "Linux/Outputs.md",
-    "Japanese/にちようび　（日曜日）.md",
-    "Japanese/にぎやか　（和やか）.md",
-    "Japanese/ふくざつ　（複雑）.md",
-    "Japanese/しんぱい　（心配）.md",
-    "Japanese/あんぜん　（安全）.md",
-    "Japanese/べんり（便利）.md"
+    "Linux/CLI arguments.md",
+    "Methodology/Steps.md"
   ]
 }
