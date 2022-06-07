@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Powershell/Untitled.md",
+            "file": "CCSP/Masking, Obfuscation, Anonymization, and Tokenization.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Powershell/Untitled.md",
+                "file": "CCSP/Masking, Obfuscation, Anonymization, and Tokenization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
-    "Powershell/Untitled.md",
-    "Python/Python-Cheat-Sheet.pdf",
-    "Attachments/Pasted image 20220130132141.png",
-    "Attachments/Pasted image 20220130141434.png",
-    "Attachments/Pasted image 20220130142511.png",
-    "Attachments/Pasted image 20220130143657.png",
-    "Attachments/Pasted image 20220130132246.png",
-    "Linux/Directory looping.md",
-    "Linux/Outputs.md",
-    "Linux/CLI arguments.md"
+    "CCSP/Masking, Obfuscation, Anonymization, and Tokenization.md",
+    "CCSP/CASBs.md",
+    "CCSP/Key Management.md",
+    "CCSP/Storage Types.md",
+    "CCSP/CDLC.md",
+    "Untitled.md",
+    "CCSP/123120211733 Risk Management.md",
+    "CCSP/120320211655 Legal and Compliance.md",
+    "CCSP/120320211651 Cloud Architecture.md",
+    "CCSP/Archived.md"
   ]
 }
