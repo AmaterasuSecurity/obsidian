@@ -1,0 +1,1 @@
+Executive decision and functions
