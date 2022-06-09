@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CCSP/ISO 27017 2015.md",
+            "file": "CCSP/US Laws.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCSP/ISO 27017 2015.md",
+                "file": "CCSP/US Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d980e136d9cd3e89",
   "lastOpenFiles": [
+    "CCSP/US Laws.md",
+    "CCSP/Storage Types.md",
+    "CCSP/Masking, Obfuscation, Anonymization, and Tokenization.md",
+    "CCSP/Key Management.md",
     "CCSP/ISO 27017 2015.md",
     "CCSP/ISO 27001 Information Security Management Systems.md",
-    "CCSP/Canada's Personal Information Protection and Electronic Documents Act.md",
-    "CCSP/Aussy Privacy Act of 1988.md",
-    "CCSP/US Laws.md",
-    "CCSP/Administrative Law.md",
-    "CCSP/Contracts.md",
-    "CCSP/Civil Law.md",
     "CCSP/Federal Law.md",
-    "CCSP/Criminal Law.md"
+    "CCSP/Criminal Law.md",
+    "CCSP/Contracts.md",
+    "CCSP/Civil Law.md"
   ]
 }
