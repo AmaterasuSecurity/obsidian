@@ -1,0 +1,4 @@
+Interoperability Issues
+Persistent Backdoors
+Virtualization
+Resource Sharing
