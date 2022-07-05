@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CCSP/ISO 27043 2015.md",
+            "file": "CCSP/CASBs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCSP/ISO 27043 2015.md",
+                "file": "CCSP/CASBs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0bdff3380679c34c",
   "lastOpenFiles": [
-    "CCSP/ISO 27043 2015.md",
-    "CCSP/ISO 27050-1 2016.md",
-    "CCSP/ISO 27017 2015.md",
-    "CCSP/ISO 27001 Information Security Management Systems.md",
-    "CCSP/ISO 27042 2015.md",
-    "CCSP/US Laws.md",
-    "CCSP/Canada's Personal Information Protection and Electronic Documents Act.md",
+    "CCSP/CASBs.md",
     "CCSP/Aussy Privacy Act of 1988.md",
+    "CCSP/Administrative Law.md",
+    "CCSP/Archived.md",
+    "CCSP/Contracts.md",
+    "CCSP/Community Cloud Risks.md",
     "CCSP/Civil Law.md",
-    "CCSP/Masking, Obfuscation, Anonymization, and Tokenization.md"
+    "CCSP/CDLC.md",
+    "CCSP/eDiscovery.md",
+    "CCSP/Criminal Law.md"
   ]
 }
