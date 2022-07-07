@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CCSP/CASBs.md",
+            "file": "Japanese/あんぜん　（安全）.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCSP/CASBs.md",
+                "file": "Japanese/あんぜん　（安全）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0bdff3380679c34c",
   "lastOpenFiles": [
-    "CCSP/CASBs.md",
-    "CCSP/Aussy Privacy Act of 1988.md",
-    "CCSP/Administrative Law.md",
-    "CCSP/Archived.md",
-    "CCSP/Contracts.md",
-    "CCSP/Community Cloud Risks.md",
-    "CCSP/Civil Law.md",
-    "CCSP/CDLC.md",
-    "CCSP/eDiscovery.md",
-    "CCSP/Criminal Law.md"
+    "Japanese/あんぜん　（安全）.md",
+    "Japanese/イヤ・いや.md",
+    "Japanese/みすめ.md",
+    "CCSP/Public Cloud Risks.md",
+    "CCSP/Private Cloud Risks.md",
+    "CCSP/PaaS Risks.md",
+    "CCSP/Multitenancy.md",
+    "CCSP/Masking, Obfuscation, Anonymization, and Tokenization.md",
+    "CCSP/Key Management.md",
+    "CCSP/ISO 27050-1 2016 eDiscovery.md"
   ]
 }
